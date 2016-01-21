@@ -1,0 +1,14 @@
+{
+  "name": "online-xml-to-local-json",
+  "version": "1.0.0",
+  "description": "Take a list of URLs that point to XML documents, convert each to JSON and stores locally.",
+  "main": "run_me.js",
+  "scripts": {
+    "run": "node run_me.js"
+  },
+  "author": "Damien Beard",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "xml2js": "^0.4.16"
+  }
+}

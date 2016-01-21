@@ -1,0 +1,2 @@
+http://www.w3schools.com/xml/cd_catalog.xml
+http://www.w3schools.com/xml/simple.xml
